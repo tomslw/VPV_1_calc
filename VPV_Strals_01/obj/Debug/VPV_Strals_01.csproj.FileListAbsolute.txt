@@ -1,0 +1,11 @@
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\bin\Debug\VPV_Strals_01.exe.config
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\bin\Debug\VPV_Strals_01.exe
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\bin\Debug\VPV_Strals_01.pdb
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.csproj.AssemblyReference.cache
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.Properties.Resources.resources
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.csproj.GenerateResource.cache
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.csproj.CoreCompileInputs.cache
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.exe
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.pdb
+C:\Users\s21stratoms\source\repos\VPV_Strals_01\VPV_Strals_01\obj\Debug\VPV_Strals_01.Form1.resources
